@@ -1,0 +1,22 @@
+{  
+"data1":  
+  {
+  "Name" : "Jai",    
+  "Mobile" : "89346724",    
+  "Designation" : "Sr. ETL Developer",    
+  "Pet" : "Cat",
+  "Address":{
+  	"Street":"JM Road",
+  	"City":"Pune"
+  }  
+  },
+  
+  "data2":  
+  {
+  "Name" : "Roy",    
+  "Mobile" : "89346724",    
+  "Designation" : "Sr. Salesforce Developer",    
+  "Pet" : "Dog"
+  }
+  
+}  

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="BlogSuite" parallel="tests">
+     
+    <!-- Running tests in parallel -->
+    
+   <parameter name="val1" value="2" />
+   <parameter name="val2" value="3" />
+  <test name="Test Basics 1">    
+    <classes>
+       <class name="zensar.selenium.testclasses.SeleniumTest"/>
+    </classes>
+  </test> 
+  
+  <test name="Test Basics 2">    
+    <classes>
+       <class name="zensar.selenium.testclasses.SeleniumTest1"/>
+    </classes>
+  </test>
+</suite> 

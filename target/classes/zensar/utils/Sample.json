@@ -1,0 +1,10 @@
+{    
+  "Name" : "Donal",    
+  "Mobile" : "89346724",    
+  "Designation" : "Sr. Salesforce Developer",    
+  "Pet" : "Dog",    
+  "Address":{
+  	"Street":"JM Road",
+  	"City":"Pune"
+  }  
+}  
